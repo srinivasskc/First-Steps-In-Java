@@ -34,7 +34,7 @@ public class SalaryCalculator {
 		if(Sales>quota) {
 					salary = salary + bonus;
 		}
-				
+		//The curly braces from if statement can be omitted		
 		
 		
 		//output salary
