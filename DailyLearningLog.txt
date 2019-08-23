@@ -9,3 +9,6 @@ Topic: Java Fundamentals and If Statements
 
 Day 04: Aug 22, 2019
 Topic: If Else Statements and Nested-If Statements.
+
+Day 05: Aug 23, 2019
+Topic: If-Else-If Statements, Switch Statements
