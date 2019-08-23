@@ -1,0 +1,39 @@
+====================================================================================
+Switch Statements:
+1. When is it ideal to use a switch statement?
+A: When there are more than two possible paths 
+
+2. Which decision structure is interchangeable with the switch statement?
+A: if-else-if
+
+3. Which type of expression does the condition of a switch statement evaluate?
+A: Equality
+
+4. Each path of a switch statement is denoted by the word _____
+A: Case
+
+5. Which cases of a switch statement are executed?
+A: The first one that is true
+
+6. The purpose of the reserved word, break, is to ______
+A: End a case block within a switch statement
+
+7. When is the default case within a switch statement executed?
+A: When the value being evaluated does not equal any of the case statements
+
+8. What will happen in a case where the break statement is omitted?
+A: The next case will also be executed
+
+9. Which decision structure is best for a case where there’s only one conditional path needed?
+A: If
+
+10. Which decision structure is best when there’s two conditional paths, where one should be executed if the condition is true and the other if the condition is false?
+A: If-Else
+
+11. Which decision structure is used when there are more than two conditional paths and its condition only checks for equality?
+A: Switch   
+
+12. Which decision structure can be used when you need to immediately check another condition if the first condition was met?
+A: Nested-If
+
+================================================================================
