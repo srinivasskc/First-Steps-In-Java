@@ -3,7 +3,7 @@ package com.ifstatements;
 import java.util.Scanner;
 
 /*
- * NESTED IFS:
+ * Logical Operator:
  * To qualify for a loan, a person must make at least $30,000
  * and have been working at their current job for at least 2 years.
  */
