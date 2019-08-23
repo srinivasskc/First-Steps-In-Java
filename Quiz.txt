@@ -37,3 +37,33 @@ A: Switch
 A: Nested-If
 
 ================================================================================
+Quiz: Relational and Logical Operators
+
+1. Which relational operator is used to test for equality?
+Ans: ==
+
+2. Which of these is an appropriate way to test if a equals 5?
+Ans: if(a == 5)
+
+3. Which is true of logical operators?
+Ans: They are used to combine two conditions to result in a single boolean value
+
+4. Which of the following is the logical operator for AND
+Ans: &&
+
+5. Which of the following is the logical operator for OR
+Ans: ||
+
+6. Which logical operator is used to negate a boolean expression?
+Ans: !
+
+7. What’s the value of (2>3 && 4<=4)?
+Ans: F && T == False
+
+8. What’s the value of (9 != 0 || 5>5)?
+Ans: T || F == True
+
+9. Considering short circuit logic, how many conditions will actually be evaluated in the expression (1>2 && 4<5)?
+Ans: 1 - First Condition
+
+================================================================================
