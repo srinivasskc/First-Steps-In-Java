@@ -60,3 +60,5 @@ Condition-Controlled: Loop Continues running while the specified condition remai
 Pre-test: Condition is tested before entering the loop.
 Execution: Best to use when the loop may/may not need to execute based on situation.
 Dont forget to add sentinal (hoursWorked = scanner.nextDouble()) inside the while loop. Else, it would execute forever.
+
+Do While Loop:
