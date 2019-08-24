@@ -1,0 +1,10 @@
+Type: main and CTRL+Space: Will provide you:
+public static void main(String[] args)
+
+Type: sysout and CTRL+Space: Will provide you:
+System.out.println();
+
+Debugging:
+Double clicking on the line number, will add the toggle breakpoint.
+Click on Debug Icon to run the application on debug mode.
+F6: function key is to step over to next steps.
