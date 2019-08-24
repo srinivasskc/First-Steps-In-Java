@@ -54,5 +54,9 @@ For the AND operators, both conditions must be true. So, if the very first condi
 
 Likewise, with the OR operator, if the first condition is true then it doesn't bother to look at the second condition.
 
-
-
+=========================
+While Loop:
+Condition-Controlled: Loop Continues running while the specified condition remains true.
+Pre-test: Condition is tested before entering the loop.
+Execution: Best to use when the loop may/may not need to execute based on situation.
+Dont forget to add sentinal (hoursWorked = scanner.nextDouble()) inside the while loop. Else, it would execute forever.
