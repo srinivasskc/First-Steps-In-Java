@@ -30,15 +30,16 @@ public class GrossPayInputValidation {
 			System.out.println("Incorrect Input. Enter correct hours worked again");
 			hoursWorked = scanner.nextDouble();
 		}
-		
-		//Scanner Close
-		scanner.close();
-		
+
 		//Get Gross Salary
 		double gross = rate * hoursWorked;
 		
 		//Print output of Gross Salary of Employee.
 		System.out.println("Gross Salary of Employee for the week is: Rs." + gross);
+		
+
+		//Scanner Close
+		scanner.close();
 		
 	}
 	
