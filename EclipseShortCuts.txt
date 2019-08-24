@@ -8,3 +8,10 @@ Debugging:
 Double clicking on the line number, will add the toggle breakpoint.
 Click on Debug Icon to run the application on debug mode.
 F6: function key is to step over to next steps.
+
+Running the Code:
+Click on Run icon on tool bar
+Click on the Run from Project explorer
+Click on the Run from Editor.
+
+
