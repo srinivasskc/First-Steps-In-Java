@@ -1,5 +1,57 @@
-Notes:
+JVM: Java Virtual Machine - Interpreter to execute java programs (byte code) line by line.
+executes precompiled java programs (.class, .jar files/bytecodes)
 
+JRE: Java Runtime Environment - Environment to run Java Applications.
+JVM + Libraroes to run Java Program
+
+JDK: Java Development Kit - Environment to develop, compile, run Java Applications.
+JRE + Tools to develop Java Programs
+============================================================================
+Running the Java Program from command line:
+
+Package Name: com.learning.app
+Java Class Name: App.java
+E:\Learning\First-Steps-In-Java\Test\src>cd com
+E:\Learning\First-Steps-In-Java\Test\src\com>cd learning
+E:\Learning\First-Steps-In-Java\Test\src\com\learning>cd app
+
+Compiling Java Program:
+E:\Learning\First-Steps-In-Java\Test\src\com\learning\app>javac App.java
+
+Running Java Program
+E:\Learning\First-Steps-In-Java\Test\src\com\learning\app>java App.java
+Hello world Java Learning from Eclipse
+This is my first Java Program...Happy Learning!
+
+
+==============================================================================
+JAR: Java ARchive
+	- Compressed format of a compiled java project.
+	- Contains .class files + meta data and some other resources.
+
+Exporting JAR File:
+	Go to Project -> Export -> Java -> Jar File -> 
+	In Jar File Specification -> Select the Export Location: E:\Learning\MyJARFiles\App.Jar
+	Then Click on Next -> Next
+	In JAR Manifest Specification -> Select Main Class to Execute: com.learning.app.App
+	
+	Now, it created: App.jar in E:\Learning\MyJARFiles\MyJARFiles.jar folder path.
+	Now, we can execute the Jar file without IDE.
+	
+	Go to Command Line and Execute below command to run the project anywhere.
+	E:\Learning\MyJARFiles\MyJARFiles.jar>java -jar App.Jar
+	Hello world Java Learning from Eclipse
+	This is my first Java Program...Happy Learning!
+	
+Extracting JAR File:
+	Extracting the JAR File.
+	In the extract folder, we see App.Class File and Manifest.MF File (Contains Main Class to Run)
+	
+Java Decompiling from Class to Java File:
+	Open JD-GUI.exe file -> App.jar [Note: It did not work for App.Jar. Due to a Bug in JD-GUI]
+	It displays Java File without any comments.
+	
+=============================================================================
 Relational Operators:
 ================================
 >  --  Greater than 
