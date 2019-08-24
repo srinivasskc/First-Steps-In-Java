@@ -62,3 +62,11 @@ Execution: Best to use when the loop may/may not need to execute based on situat
 Dont forget to add sentinal (hoursWorked = scanner.nextDouble()) inside the while loop. Else, it would execute forever.
 
 Do While Loop:
+Condition-Controlled: Loop Continues running while the specified condition remains true.
+Pre-test: Condition is tested after completing of the loop.
+Execution: Best to use when the loop may/may not need to execute based on situation.
+Dont forget to add sentinal (hoursWorked = scanner.nextDouble()) inside the while loop. Else, it would execute forever.
+
+
+If Loop:
+Break statement can be used to come out of If loop.
