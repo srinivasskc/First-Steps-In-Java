@@ -1,0 +1,58 @@
+Notes:
+
+Relational Operators:
+================================
+>  --  Greater than 
+<  --  Less than
+>= -- Greater than Equal to
+<= -- Less than Equal to
+== -- Equal to
+!= -- Not Equal to
+
+Examples:
+2>3 - false
+2<3 - true
+4>=4 - true
+4<=3 - false
+3==2 - false
+3!=2 - true
+
+Equal Operator:
+====================
+== - Equal to 
+=  - Assigning the value.
+
+
+Comparing the Strings:
+=============================
+== , !=  --> Compares the memory location of the strings, Not the value of String.
+
+if(string1.equals(string2)) == Comparing the strings value (Equals Method)
+if(!string1.equals(string2)) == Comparing the strings value (Not Equals, adding not at the beginning)
+if(string1.equalsignorecase(string2)) == comparing the strings value ignoring the case of the string value.
+
+
+Logical Operators:
+=======================
+&& - AND - Both conditions must be true.
+|| - OR - Atleast one condition must be true.
+! - NOT - Condition must be false, so the resulting will be true.
+
+
+Examples:
+==========
+1<=2 && 4!=5 --> T && T --> True
+3==4 || "Mary".equals("Mary") --> F || T --> True.
+!(2==3) --> !(F) --> True.
+
+
+Short Circuit Logic:
+====================
+The AND and OR operators are used to combine two conditions into one.
+
+For the AND operators, both conditions must be true. So, if the very first condition of an AND statement is false, it does not look at the second condition. There's no need to because both would need to be true in order for it to be true. It will look at the first one, if it's false the entire thing will be false. So, this saves a little bit of computational time.
+
+Likewise, with the OR operator, if the first condition is true then it doesn't bother to look at the second condition.
+
+
+
