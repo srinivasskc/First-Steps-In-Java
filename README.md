@@ -17,3 +17,6 @@ https://www.youtube.com/playlist?list=PLhW3qG5bs-L_qj1L5hnHvJYeFpQ_g4UuU
 
 3. Java + Eclipse for Selenium.
 https://selenium-by-arun.blogspot.com/
+
+4. Practice Exercises
+https://www.w3schools.com/java/
