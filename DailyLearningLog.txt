@@ -12,3 +12,9 @@ Topic: If Else Statements and Nested-If Statements.
 
 Day 05: Aug 23, 2019
 Topic: If-Else-If Statements, Switch Statements
+
+Day 06:
+While, Do While, For Loops.
+
+Day 07: Aug 25, 2019
+Practice Exercises
