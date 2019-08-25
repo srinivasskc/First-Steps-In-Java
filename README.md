@@ -15,3 +15,5 @@ https://testautomationu.applitools.com/java-programming-course
 2. Java Beginners by Raghav Pal
 https://www.youtube.com/playlist?list=PLhW3qG5bs-L_qj1L5hnHvJYeFpQ_g4UuU
 
+3. Java + Eclipse for Selenium.
+https://selenium-by-arun.blogspot.com/
