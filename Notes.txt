@@ -1,11 +1,50 @@
+Why "Java" is different than C & C++?
+https://www.atnyla.com/tutorial/how-java-differs-from-c-and-c-/0/7
+
+What are the IDEs available for Java, which is the most used one and why?
+https://blog.idrsolutions.com/2015/03/the-top-11-free-ide-for-java-coding-development-programming/
+
+why Java uses both Compiler and Interpreter?
+https://www.quora.com/Why-does-Java-use-both-compiler-as-well-as-Interpreter
+
+How to install JAVA and compile a sample java program.?
+https://www.guru99.com/install-java.html
+
+How to install an IDE and start writing and executing a Java Program in IDE?
+https://www.tutorialspoint.com/eclipse/eclipse_installation.htm
+===================================================
 JVM: Java Virtual Machine - Interpreter to execute java programs (byte code) line by line.
 executes precompiled java programs (.class, .jar files/bytecodes)
 
 JRE: Java Runtime Environment - Environment to run Java Applications.
-JVM + Libraroes to run Java Program
+JVM + Libraries to run Java Program
 
 JDK: Java Development Kit - Environment to develop, compile, run Java Applications.
 JRE + Tools to develop Java Programs
+============================================================================
+
+Java Keywords:
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/_keywords.html
+
+Java Data Types:
+https://www.w3schools.com/java/java_data_types.asp
+
+Strings:
+Strings in Java are objects.
+Strings are immutable
+Strings is only class which supports operator overloading.
+We can concatenate two strings by using + operator.
+
+String Methods:
+https://www.w3schools.com/java/java_ref_string.asp
+
+============================================================================
+Observe Java Keywords Used in programs:
+package, public, class, static, void, byte, short, int, long, float, double, boolean, char.
+new, 
+================================================================================
+
+
 ============================================================================
 Running the Java Program from command line:
 
