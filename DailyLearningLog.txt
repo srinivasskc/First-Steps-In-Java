@@ -18,3 +18,11 @@ While, Do While, For Loops.
 
 Day 07: Aug 25, 2019
 Practice Exercises
+
+Day 08: Aug 27, 2019
+Nested Loops
+
+Day 09: Aug 28, 2019
+Nested Loops Exercise and Loops Quiz
+Methods.
+
